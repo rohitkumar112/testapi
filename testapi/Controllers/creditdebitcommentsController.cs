@@ -17,6 +17,7 @@ namespace testapi.Controllers
             string s = "";
             string connetionString;
             SqlConnection cnn;
+            //kamran
 
             //    connetionString = @"Data Source=DESKTOP-F9MHQ34\ROHIT;Initial Catalog=careconnect;Integrated Security=True";
             connetionString = @"Data Source=DL-5590-I7-018;Initial Catalog=nomeshdatabase;Integrated Security=true";
